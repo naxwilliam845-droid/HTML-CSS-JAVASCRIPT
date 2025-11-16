@@ -8,4 +8,4 @@ while True :
             print("le nombre doit etre 1 et 100.")
     except ValueError:
             print("Erreur :Entrez un nombre valide.")
-        
+        githhub
